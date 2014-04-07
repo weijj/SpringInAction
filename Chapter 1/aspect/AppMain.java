@@ -11,4 +11,3 @@ public class AppMain {
 		knight.embarkOnQuest();
 	}
 }
-
